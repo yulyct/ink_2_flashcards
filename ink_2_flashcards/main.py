@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 from agents.agents import FlashcardBuilder
 
@@ -12,4 +10,3 @@ try :
     print("response:", response, flush= True)
 except Exception as e:
     print("Error:", e, flush= True)
->>>>>>> a35761d (Temp commit)
